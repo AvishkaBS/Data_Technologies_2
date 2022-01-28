@@ -9,6 +9,7 @@
     MYSQL Workbench
     Java as the main programming language
     JavaFX for User interface
+    IntelliJ IDEA as the IDE
 
 
 **Instructions**
